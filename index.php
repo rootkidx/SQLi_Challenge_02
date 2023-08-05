@@ -1,9 +1,9 @@
 <?php
 // Connection parameters (replace with your database credentials)
-$host = 'db';
-$username = 'root';
-$password = 'qwerty';
-$dbname = 'web02';
+$host = '';
+$username = '';
+$password = '';
+$dbname = '';
 
 // Establishing connection
 $conn = new mysqli($host, $username, $password, $dbname);
